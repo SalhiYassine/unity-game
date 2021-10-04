@@ -1,1 +1,1 @@
-# unity-pong-game
+# unity-game-template
